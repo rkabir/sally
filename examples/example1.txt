@@ -1,3 +1,2 @@
-
-sally example1.cfg reuters.zip reuters.libsvm
-train -v 5 -t 0 -c 100 reuters.libsvm 
+$ sally example1.cfg reuters.zip reuters.libsvm
+$ train -v 5 -c 100 reuters.libsvm 

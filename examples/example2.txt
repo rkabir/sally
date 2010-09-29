@@ -1,3 +1,2 @@
-
-sally example2.cfg hg16_training.txt.gz hg16_training.libsvm
-train -v 5 -t 0 -c 100 hg16_training.libsvm 
+$ sally example2.cfg dna_hg16.txt.gz dna_hg16.libsvm
+$ train -v 5 dna_hg16.libsvm 
